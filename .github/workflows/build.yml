@@ -29,4 +29,3 @@ steps:
         with:
           name: troizy-visuals
           path: work/build/libs/*.jar
-1
